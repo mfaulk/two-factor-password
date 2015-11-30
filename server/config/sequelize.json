@@ -1,0 +1,27 @@
+{
+  "development": {
+    "username": "mfaulk",
+    "password": null,
+    "database": "database_development",
+    "dialect": "postgres",
+    "protocol": "postgres",
+    "host": "127.0.0.1",
+    "port": "5432"
+  },
+  "test": {
+    "username": "mfaulk",
+    "password": null,
+    "database": "database_development",
+    "dialect": "postgres",
+    "protocol": "postgres",
+    "host": "127.0.0.1",
+    "port": "5432"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
